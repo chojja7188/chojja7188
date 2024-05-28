@@ -1,4 +1,4 @@
-# 성장하고 싶은 초짜입니다
+# 성장하고 싶은 개발자, 초짜입니다
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchojja7188&count_bg=%236FE719&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=view&edge_flat=false)](https://hits.seeyoufarm.com)
 
