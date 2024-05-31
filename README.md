@@ -44,4 +44,5 @@ Email : chojja7188@gmail.com
   <img alt="Static Badge" src="https://img.shields.io/badge/Node.js-%235FA04E?style=flat&logo=node.js&logoColor=ffffff">
   <img alt="Static Badge" src="https://img.shields.io/badge/Python-%233776AB?style=flat&logo=python&logoColor=ffffff">
   <img alt="Static Badge" src="https://img.shields.io/badge/Ruby%20on%20Rails-%23D30001?style=flat&logo=Ruby%20on%20Rails&logoColor=ffffff">
+  <img alt="Static Badge" src="https://img.shields.io/badge/PHP-%23777BB4?style=flat&logo=php&logoColor=ffffff">
 </div>
