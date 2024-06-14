@@ -17,14 +17,14 @@ Email : chojja7188@gmail.com
 </div><br>
 
 ## Stack
-**Level 3 - 중급**
+**Level 3**
 <div style="display:flex; flex-direction:row;">
   <img src="https://img.shields.io/badge/Flutter-%2302569B?style=flat&logo=flutter">
   <img src="https://img.shields.io/badge/Dart-%230175C2?style=flat&logo=dart">
 </div>
 <br>
 
-**Level 2 - 초급**
+**Level 2**
 <div style="display:flex; flex-direction:row;">
   <img alt="Static Badge" src="https://img.shields.io/badge/Git-%23F05032?style=flat&logo=git&logoColor=ffffff">
   <img alt="Static Badge" src="https://img.shields.io/badge/HTML-%23E34F26?style=flat&logo=html5&logoColor=ffffff">
@@ -33,14 +33,14 @@ Email : chojja7188@gmail.com
 </div>
 <br>
 
-**Level 1 - 기초**
+**Level 1**
 <div style="display:flex; flex-direction:row;">
   <img alt="Static Badge" src="https://img.shields.io/badge/C-%23A8B9CC?style=flat&logo=c&logoColor=ffffff">
   <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=ffffff">
 </div>
 <br>
 
-**Level 0 - 겉핥기**
+**Level 0**
 <div style="display:flex; flex-direction:row;">
   <img alt="Static Badge" src="https://img.shields.io/badge/Swift-%23F05138?style=flat&logo=swift&logoColor=ffffff">
   <img alt="Static Badge" src="https://img.shields.io/badge/Node.js-%235FA04E?style=flat&logo=node.js&logoColor=ffffff">
