@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=chojja7188&fontSize=40&animation=fadeIn&fontAlignY=36" />
 
-# 성장하고 싶은 개발자, 초짜입니다
+# 초심의 마음가짐으로 개발하는 개발자, 초짜입니다
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchojja7188&count_bg=%236FE719&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=view&edge_flat=false)](https://hits.seeyoufarm.com)
 
