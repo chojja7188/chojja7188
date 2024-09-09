@@ -40,6 +40,7 @@ Email : chojja7188@gmail.com
 </div>
 <br>
 
+<!--
 **Level 0**
 <div style="display:flex; flex-direction:row;">
   <img alt="Static Badge" src="https://img.shields.io/badge/Swift-%23F05138?style=flat&logo=swift&logoColor=ffffff">
@@ -48,3 +49,4 @@ Email : chojja7188@gmail.com
   <img alt="Static Badge" src="https://img.shields.io/badge/Ruby%20on%20Rails-%23D30001?style=flat&logo=Ruby%20on%20Rails&logoColor=ffffff">
   <img alt="Static Badge" src="https://img.shields.io/badge/PHP-%23777BB4?style=flat&logo=php&logoColor=ffffff">
 </div>
+-->
