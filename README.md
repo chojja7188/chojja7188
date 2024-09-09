@@ -13,7 +13,7 @@ Email : chojja7188@gmail.com
 ## Blog
 <div style="display:flex; flex-direction:row;">
   <a href="https://velog.io/@chojja7188/posts"><img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=velog&label=chojja7188"></a>
-  <a href="https://chojja7.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&label=chojja7"></a>
+  <!--<a href="https://chojja7.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&label=chojja7"></a>-->
 </div><br>
 
 ## Stack
