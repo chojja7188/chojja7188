@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=chojja7188&fontSize=40&animation=fadeIn&fontAlignY=36" />
 
-# 프론트엔드 개발자, 초짜입니다
+# 프론트엔드 개발자, 박세훈입니다
 
 [![chojja7188](https://github-readme-stats.vercel.app/api?username=chojja7188&theme=dracula&hide=stars)](https://github.com/chojja7188/github-readme-stats)
 
