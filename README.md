@@ -2,8 +2,6 @@
 
 # 프론트엔드 개발자, 초짜입니다
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchojja7188&count_bg=%236FE719&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=view&edge_flat=false)](https://hits.seeyoufarm.com)
-
 [![chojja7188](https://github-readme-stats.vercel.app/api?username=chojja7188&theme=dracula&hide=stars)](https://github.com/chojja7188/github-readme-stats)
 
 ## Contact
@@ -29,7 +27,6 @@ Email : chojja7188@gmail.com
   <img alt="Static Badge" src="https://img.shields.io/badge/Git-%23F05032?style=flat&logo=git&logoColor=ffffff">
   <img alt="Static Badge" src="https://img.shields.io/badge/HTML-%23E34F26?style=flat&logo=html5&logoColor=ffffff">
   <img alt="Static Badge" src="https://img.shields.io/badge/CSS-%231572B6?style=flat&logo=CSS3">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Vue.js-%234FC08D?style=flat&logo=vue.js&logoColor=ffffff">
 </div>
 <br>
 
@@ -37,6 +34,7 @@ Email : chojja7188@gmail.com
 <div style="display:flex; flex-direction:row;">
   <img alt="Static Badge" src="https://img.shields.io/badge/C-%23A8B9CC?style=flat&logo=c&logoColor=ffffff">
   <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=ffffff">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Vue.js-%234FC08D?style=flat&logo=vue.js&logoColor=ffffff">
 </div>
 <br>
 
