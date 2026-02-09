@@ -2,8 +2,6 @@
 
 # 프론트엔드 개발자, 박세훈입니다
 
-[![chojja7188](https://github-readme-stats.vercel.app/api?username=chojja7188&theme=dracula&hide=stars)](https://github.com/chojja7188/github-readme-stats)
-
 ## Contact
 Email : chojja7188@gmail.com
 <br><br>
